@@ -15,8 +15,8 @@
     display: flex;
     border-radius: 100%;
     
-    width: 40vh;
-    height:40vh ;
+    width: 200px;
+    height:200px ;
 
     justify-content: center;
     align-items: center;
