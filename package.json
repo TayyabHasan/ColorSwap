@@ -1,0 +1,23 @@
+{
+  "name": "colorswap",
+  "version": "1.0.0",
+  "description": "A static fun website with simple CI/CD. Using Github Actions and Firebase hosting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TayyabHasan/ColorSwap.git"
+  },
+  "keywords": [
+    "Fun",
+    "projects"
+  ],
+  "author": "Tayyab Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TayyabHasan/ColorSwap/issues"
+  },
+  "homepage": "https://github.com/TayyabHasan/ColorSwap#readme"
+}
